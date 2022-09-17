@@ -5,3 +5,4 @@ console.log(percent + '%')
 // folana
 // folan
 
+anazz
